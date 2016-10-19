@@ -1,0 +1,21 @@
+{
+  "name": "prodev",
+  "version": "1.0.0",
+  "description": "Bachelor in de grafische en digitale media, multimediaproductie, proDEV",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "js-yaml": "^3.6.1",
+    "reveal.js": "^3.3.0"
+  },
+  "scripts": {
+    "start": "gulp --production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivier Parent <olivier.parent@arteveldehs.be>",
+  "license": "Apache-2.0",
+  "private": true
+}

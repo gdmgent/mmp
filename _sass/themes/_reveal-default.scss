@@ -1,0 +1,19 @@
+/// reveal.js Theme
+
+body {
+  background: $bg-color;
+  background-color: $bg-color;
+  font-family: $reveal-font-body;
+  font-size: 30px;
+  font-weight: normal;
+  color: $f-color;
+}
+
+.home-page > h1 {
+  font-size: 6rem;
+}
+
+.chapter-intro > h2 {
+  color: $bg-color;
+  font-size: 8rem;
+}

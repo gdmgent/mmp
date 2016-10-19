@@ -1,0 +1,32 @@
+# Site settings
+# -------------
+baseurl : /mmp # the subpath of your site, e.g. /blog
+colour  : primary
+language: nl
+
+# Build settings
+# --------------
+gems:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  style: compressed
+exclude:
+  - gulpfile
+  - node_modules/
+  - src/
+  - Gemfile
+  - LICENSE
+  - package.json
+  - README.md
