@@ -1,7 +1,9 @@
-Multimediaproductie
--------------------
+Profiel
+-------
 
-### "Development" van interactieve digitale producten:
+### Domein Web And New Media (WANM)
+
+#### "Development" van interactieve digitale producten:
 
  - Websites  
    <small>(websites en web apps)</small>

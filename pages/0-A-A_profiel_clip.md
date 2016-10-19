@@ -1,7 +1,9 @@
-Ideaal Profiel
---------------
+Profiel
+-------
 
-### Student MMP heeft een ernstig geval van **CLIP**
+### Attitudes
+
+#### Student MMP heeft een ernstig geval van **CLIP**
 
  - **Creativiteit**
    <small>Bedenken van concepten en eigen ontwerpen maken.</small>

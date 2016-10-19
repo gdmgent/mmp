@@ -1,4 +1,5 @@
 Profiel
 -------
 
-### Welke attitudes moet je als MMP student hebben?
+### Welke attitudes moet je hebben?
+### In welke domeinen zullen jullie vertoeven?
