@@ -9,6 +9,22 @@ body {
   color: $f-color;
 }
 
+.reveal .controls .navigate-up.enabled {
+    border-bottom-color: rgba(255, 255, 255, 1);
+}
+
+.reveal .controls .navigate-right.enabled {
+    border-left-color: rgba(255, 255, 255, 1);
+}
+
+.reveal .controls .navigate-down.enabled {
+    border-top-color: rgba(255, 255, 255, 1);
+}
+
+.reveal .controls .navigate-left.enabled {
+    border-right-color: rgba(255, 255, 255, 1);
+}
+
 .home-page > h1 {
   font-size: 6rem;
 }
