@@ -89,6 +89,29 @@ body {
   }
 }
 
+*[data-markdown] table tr td {
+  position: relative;
+  padding-right: 80px;
+}
+
+*[data-domain] {
+  position: absolute;
+  right: 0;
+  top: 4px;
+}
+
+*[data-domain] .fa {
+  font-size: 1.2rem;
+}
+
+*[data-domain="wanm"] .fa {
+  color: #C07;
+}
+
+*[data-domain="av3"] .fa {
+  color: #0AC;
+}
+
 .reveal {
   .controls {
     .navigate-up {
