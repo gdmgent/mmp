@@ -3,9 +3,9 @@ Jobs in CMS'en
 
 ### Drupal | WordPress | ...
 
- - Designer  
+ - **Designer**  
    <small>Thema ontwerpen</small>
- - Themer  
+ - **Themer**  
    <small>Thema ontwikkelen met HTML, CSS, JS en template languages</small>
- - Developer  
+ - **Developer**  
    <small>Plugins en uitbreidingen ontwikkelen met PHP, JS en databases</small>

@@ -1,5 +1,5 @@
-Jobs in Web
------------
+Jobs in Web & Mobile
+--------------------
 
  - **Webdesigner**  
    <small>Ontwerpen | HTML & CSS | Basis Client-Side (JavaScript en bibliotheken zoals jQuery)</small>
@@ -9,3 +9,4 @@ Jobs in Web
    <small>Basis Client-Side | Server-Side (C#, PHP, JavaScript …) | Databases | Servers</small>
  - **Full-stack Web Developer**  
    <small>Alles!</small>
+ -  **App Designer / App Developer**
