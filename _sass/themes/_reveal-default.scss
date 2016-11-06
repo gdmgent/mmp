@@ -55,6 +55,31 @@ body {
         }
       }
     }
+    &--inhoud {
+      section {
+        h2 {
+          color: map-get($color-ahs, 'puchsia');
+        }
+        ul small {
+          opacity: 0.76;
+          font-size: 1.4rem;
+        }
+        a {
+          color: map-get($color-ahs, 'puchsia');
+        }
+      }
+      strong {
+        color: map-get($color-ahs, 'puchsia');
+      }
+      .slides__chapter-intro {
+        h2 {
+          color: $bg-color;
+        }
+        strong {
+          color: #f4f4f4;
+        }
+      }
+    }
     &--programma {
       section {
         h2 {
