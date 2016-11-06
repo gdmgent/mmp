@@ -2,4 +2,4 @@ Profiel
 -------
 
 ### Welke attitudes moet je hebben?
-### In welke domeinen zullen jullie vertoeven?
+### In welke domeinen zal je vertoeven?
