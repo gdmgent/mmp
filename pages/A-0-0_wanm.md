@@ -1,14 +1,14 @@
 Profiel
 -------
 
-### Domein Web And New Media (WANM)
+### Domein *Web & New Media* (WANM)
 
 #### "Development" van interactieve digitale producten:
 
 - Websites  
   <small>Websites en web apps.</small>
 - Nieuwe Media  
-  <small>Apps voor: Mobile, Wearables, <abbr title="Internet of Things">IoT</abbr>, ... .</small>
+  <small>Apps voor: Mobile, Wearables, <abbr title="Internet of Things">IoT</abbr>, …</small>
 
 > Zowel het **bedenken** van het concept,  
 > het **ontwerpen** van de gebruikersinterface  

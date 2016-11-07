@@ -1,7 +1,7 @@
 Jobs
 ----
 
-### CMS'en: Drupal | WordPress | ...
+### CMS'en: Drupal | WordPress | …
 
 - **Designer**  
   <small>Thema ontwerpen</small>

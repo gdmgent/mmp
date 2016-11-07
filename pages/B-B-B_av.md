@@ -1,7 +1,7 @@
 Inhoud
 ------
 
-### Domein Audio, Video & 3D (AV3)
+### Domein *Audio, Video & 3D* (AV3)
 
 - **Klank**  
 <small>Klank opname, montage en mixage voor beeld (software: Adobe Audition).</small>

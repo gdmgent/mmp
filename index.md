@@ -7,7 +7,7 @@ title : MMP
 </section>
 <section class="slides__chapter slides__chapter--profile">
     <section data-markdown="./pages/0-A-0_profiel.md" class="slides__chapter-intro" data-background-color="#E90"></section>
-    <section data-markdown="./pages/0-A-A_profiel_clip.md"></section>
+    <section data-markdown="./pages/0-A-A_profiel_clipo.md"></section>
     <section data-markdown="./pages/A-0-0_wanm.md"></section>
     <section data-markdown="./pages/B-0-0_av3.md"></section>
 </section>

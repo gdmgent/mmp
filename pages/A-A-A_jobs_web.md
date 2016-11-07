@@ -11,4 +11,4 @@ Jobs
   <small>Basis Client-Side | Server-Side (C#, PHP, JavaScript …) | Databases | Servers</small>
 - **Full-stack Web Developer**  
   <small>Alles!</small>
-- **App Designer / App Developer**
+- **App Designer / App Developer**  

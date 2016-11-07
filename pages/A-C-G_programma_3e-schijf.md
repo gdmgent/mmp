@@ -1,7 +1,7 @@
 Programma
 ---------
 
-### 3e schijf - Domein WANM
+### 3de schijf - Domein WANM
 
 | SP | Opleidingsonderdeel                                                                 |
 |---:|:------------------------------------------------------------------------------------|

@@ -1,7 +1,7 @@
 Inhoud
 ------
 
-### Domein Audio, Video & 3D (AV3)
+### Domein *Audio, Video & 3D* (AV3)
 
 - **Story**  
 <small>Concept en uitwerking van eigen ideeën en opgelegde opdrachten o.a. met Adobe Story</small>

@@ -3,4 +3,4 @@ Programma
 
 ### Kies je voor **proDEV** als specialisatie?
 
-### Je zal je kennis uitbreiden in het domein **Web And New Media (WANM)**.
+### Je zal je kennis nog uitbreiden in het<br>domein ***Web & New Media* (WANM)**.
