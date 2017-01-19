@@ -3,44 +3,44 @@ layout: slide
 title : MMP
 ---
 <section class="slides__chapter">
-    <section data-markdown="./pages/0-0-0_gdm.md" class="slides__homepage"></section>
+    <section data-markdown="./pages/0-0-0__gdm.md" class="slides__homepage"></section>
 </section>
 <section class="slides__chapter slides__chapter--profile">
-    <section data-markdown="./pages/0-A-0_profiel.md" class="slides__chapter-intro" data-background-color="#E90"></section>
-    <section data-markdown="./pages/0-A-A_profiel_clipo.md"></section>
-    <section data-markdown="./pages/A-0-0_wanm.md"></section>
-    <section data-markdown="./pages/B-0-0_av3.md"></section>
+    <section data-markdown="./pages/A-0-0__profiel.md" class="slides__chapter-intro" data-background-color="#E90"></section>
+    <section data-markdown="./pages/A-A-0__profiel__clipo.md"></section>
+    <section data-markdown="./pages/A-B-0__profiel__wanm.md"></section>
+    <section data-markdown="./pages/A-C-0__profiel__av3.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--jobs">
-    <section data-markdown="./pages/A-A-0_jobs.md" class="slides__chapter-intro" data-background-color="#0AC"></section>
-    <section data-markdown="./pages/A-A-A_jobs_web.md"></section>
-    <section data-markdown="./pages/A-A-C_jobs_cms.md"></section>
-    <section data-markdown="./pages/B-A-A_jobs.md"></section>
-    <section data-markdown="./pages/A-A-D_jobs_verder.md"></section>
+    <section data-markdown="./pages/B-0-0__jobs.md" class="slides__chapter-intro" data-background-color="#0AC"></section>
+    <section data-markdown="./pages/B-A-0__jobs__web.md"></section>
+    <section data-markdown="./pages/B-B-0__jobs__cms.md"></section>
+    <section data-markdown="./pages/B-C-0__jobs__tavc.md"></section>
+    <section data-markdown="./pages/B-D-0__jobs__verder.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--inhoud">
-    <section data-markdown="./pages/A-B-0_inhoud.md" class="slides__chapter-intro" data-background-color="#C07"></section>
-    <section data-markdown="./pages/A-B-K_inhoud_wanm.md"></section>
-    <section data-markdown="./pages/A-B-L_inhoud_wanm.md"></section>
-    <section data-markdown="./pages/A-B-M_inhoud_wanm.md"></section>
-    <section data-markdown="./pages/A-B-N_inhoud_wanm.md"></section>
-    <section data-markdown="./pages/B-B-A_av.md"></section>
-    <section data-markdown="./pages/B-B-B_av.md"></section>
+    <section data-markdown="./pages/C-0-0__inhoud.md" class="slides__chapter-intro" data-background-color="#C07"></section>
+    <section data-markdown="./pages/A-B-K__inhoud__wanm.md"></section>
+    <section data-markdown="./pages/A-B-L__inhoud__wanm.md"></section>
+    <section data-markdown="./pages/A-B-M__inhoud__wanm.md"></section>
+    <section data-markdown="./pages/A-B-N__inhoud__wanm.md"></section>
+    <section data-markdown="./pages/B-B-A__av.md"></section>
+    <section data-markdown="./pages/B-B-B__av.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--programma">
-    <section data-markdown="./pages/0-C-0_programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
-    <section data-markdown="./pages/0-C-A_programma_1e-schijf.md"></section>
-    <section data-markdown="./pages/0-C-C_programma_2e-schijf.md"></section>
-    <section data-markdown="./pages/0-C-D_programma_2e-schijf.md"></section>
-    <section data-markdown="./pages/0-C-E_programma_3e-schijf.md"></section>
+    <section data-markdown="./pages/0-C-0__programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
+    <section data-markdown="./pages/0-C-A__programma__1e-schijf.md"></section>
+    <section data-markdown="./pages/0-C-C__programma__2e-schijf.md"></section>
+    <section data-markdown="./pages/0-C-D__programma__2e-schijf.md"></section>
+    <section data-markdown="./pages/0-C-E__programma__3e-schijf.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--programma">
-    <section data-markdown="./pages/A-C-0_programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
-    <section data-markdown="./pages/A-C-M_programma_specifiek_2e-schijf.md"></section>
-    <section data-markdown="./pages/A-C-O_programma_specifiek_3e-schijf.md"></section>
+    <section data-markdown="./pages/A-C-0__programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
+    <section data-markdown="./pages/A-C-M__programma__specifiek__2e-schijf.md"></section>
+    <section data-markdown="./pages/A-C-O__programma__specifiek__3e-schijf.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--programma">
-    <section data-markdown="./pages/B-C-0_programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
-    <section data-markdown="./pages/B-C-M_programma_specifiek_2e-schijf.md"></section>
-    <section data-markdown="./pages/B-C-O_programma_specifiek_3e-schijf.md"></section>
+    <section data-markdown="./pages/B-C-0__programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
+    <section data-markdown="./pages/B-C-M__programma__specifiek__2e-schijf.md"></section>
+    <section data-markdown="./pages/B-C-O__programma__specifiek__3e-schijf.md"></section>
 </section>

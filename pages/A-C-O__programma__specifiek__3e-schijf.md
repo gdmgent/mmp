@@ -1,5 +1,5 @@
-Programma proDEV
-----------------
+Programma New Media Development
+-------------------------------
 
 ### 3de schijf
 
