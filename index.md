@@ -24,23 +24,29 @@ title : MMP
     <section data-markdown="./pages/C-B-0__inhoud__wanm.md"></section>
     <section data-markdown="./pages/C-C-0__inhoud__wanm.md"></section>
     <section data-markdown="./pages/C-D-0__inhoud__wanm.md"></section>
-    <section data-markdown="./pages/C-E-0__inhoud__av.md"></section>
-    <section data-markdown="./pages/C-F-0__inhoud__av.md"></section>
+    <section data-markdown="./pages/C-E-0__inhoud__av3.md"></section>
+    <section data-markdown="./pages/C-F-0__inhoud__av3.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--programma">
     <section data-markdown="./pages/D-0-0__programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
-    <section data-markdown="./pages/D-A-0__programma__1e-schijf.md"></section>
-    <section data-markdown="./pages/D-B-0__programma__2e-schijf.md"></section>
-    <section data-markdown="./pages/D-C-0__programma__2e-schijf.md"></section>
-    <section data-markdown="./pages/D-E-0__programma__3e-schijf.md"></section>
+    <section data-markdown="./pages/D-A-0__programma__s1.md"></section>
+    <section data-markdown="./pages/D-B-0__programma__s2.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--programma">
-    <section data-markdown="./pages/E-0-0__programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
-    <section data-markdown="./pages/E-A-0__programma__specifiek__2e-schijf.md"></section>
-    <section data-markdown="./pages/E-B-0__programma__specifiek__3e-schijf.md"></section>
+    <section data-markdown="./pages/E-0-0__programma-new-media-development.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
+    <section data-markdown="./pages/D-A-0__programma__s1.md"></section>
+    <section data-markdown="./pages/D-B-0__programma__s2.md"></section>
+    <section data-markdown="./pages/E-A-0__programma-new-media-development__s3.md"></section>
+    <section data-markdown="./pages/E-B-0__programma-new-media-development__s4.md"></section>
+    <section data-markdown="./pages/E-C-0__programma-new-media-development__s5.md"></section>
+    <section data-markdown="./pages/E-D-0__programma-new-media-development__s6.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--programma">
-    <section data-markdown="./pages/F-0-0__programma.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
-    <section data-markdown="./pages/F-A-0__programma__specifiek__2e-schijf.md"></section>
-    <section data-markdown="./pages/F-B-0__programma__specifiek__3e-schijf.md"></section>
+    <section data-markdown="./pages/F-0-0__programma-audiovideo-creation.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
+    <section data-markdown="./pages/D-A-0__programma__s1.md"></section>
+    <section data-markdown="./pages/D-B-0__programma__s2.md"></section>
+    <section data-markdown="./pages/F-A-0__programma-audiovideo-creation__s3.md"></section>
+    <section data-markdown="./pages/F-B-0__programma-audiovideo-creation__s4.md"></section>
+    <section data-markdown="./pages/F-C-0__programma-audiovideo-creation__s5.md"></section>
+    <section data-markdown="./pages/F-D-0__programma-audiovideo-creation__s6.md"></section>
 </section>
