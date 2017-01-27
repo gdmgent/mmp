@@ -8,8 +8,9 @@ title : MMP
 <section class="slides__chapter slides__chapter--profile">
     <section data-markdown="./pages/A-0-0__profiel.md" class="slides__chapter-intro" data-background-color="#E90"></section>
     <section data-markdown="./pages/A-A-0__profiel__clipo.md"></section>
-    <section data-markdown="./pages/A-B-0__profiel__wanm.md"></section>
-    <section data-markdown="./pages/A-C-0__profiel__av3.md"></section>
+    <section data-markdown="./pages/A-B-0__profiel__tijdsbesteding.md"></section>
+    <section data-markdown="./pages/A-C-0__profiel__wanm.md"></section>
+    <section data-markdown="./pages/A-D-0__profiel__av3.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--jobs">
     <section data-markdown="./pages/B-0-0__jobs.md" class="slides__chapter-intro" data-background-color="#0AC"></section>
