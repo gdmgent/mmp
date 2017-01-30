@@ -12,7 +12,7 @@ Programma
 |  5 | Image Processing III MMP |
 |  4 | Ondernemen I |
 
-[Audiovisual Arts & Production II]:         #
-[Computer Science & Software Engineering]:  #
-[Mobile Development I]:                     #
-[Web Development I]:                        #
+[Audiovisual Arts & Production II]:        #
+[Computer Science & Software Engineering]: #
+[Mobile Development I]:                    #
+[Web Development I]:                       #

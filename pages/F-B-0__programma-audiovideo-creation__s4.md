@@ -12,5 +12,5 @@ Programma
 |  5 | Personal & Professional Development III |
 |  3 | Project Management MMP |
 
-[3D Animation I]: #
+[3D Animation I]:                    #
 [Audiovisual Arts & Production III]: #
