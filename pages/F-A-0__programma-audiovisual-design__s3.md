@@ -1,7 +1,7 @@
 Programma
 ---------
 
-### Audiovideo Creation<br><small>Semester 3</small>
+### Audiovisual Design<br><small>Semester 3</small>
 
 | SP | Opleidingsonderdeel                                                                                                        |
 |---:|:---------------------------------------------------------------------------------------------------------------------------|

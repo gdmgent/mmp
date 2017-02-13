@@ -43,11 +43,11 @@ title : MMP
     <section data-markdown="./pages/E-D-0__programma-new-media-development__s6.md"></section>
 </section>
 <section class="slides__chapter slides__chapter--programma">
-    <section data-markdown="./pages/F-0-0__programma-audiovideo-creation.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
+    <section data-markdown="./pages/F-0-0__programma-audiovisual-design.md" class="slides__chapter-intro" data-background-color="#BC0"></section>
     <section data-markdown="./pages/D-A-0__programma__s1.md"></section>
     <section data-markdown="./pages/D-B-0__programma__s2.md"></section>
-    <section data-markdown="./pages/F-A-0__programma-audiovideo-creation__s3.md"></section>
-    <section data-markdown="./pages/F-B-0__programma-audiovideo-creation__s4.md"></section>
-    <section data-markdown="./pages/F-C-0__programma-audiovideo-creation__s5.md"></section>
-    <section data-markdown="./pages/F-D-0__programma-audiovideo-creation__s6.md"></section>
+    <section data-markdown="./pages/F-A-0__programma-audiovisual-design__s3.md"></section>
+    <section data-markdown="./pages/F-B-0__programma-audiovisual-design__s4.md"></section>
+    <section data-markdown="./pages/F-C-0__programma-audiovisual-design__s5.md"></section>
+    <section data-markdown="./pages/F-D-0__programma-audiovisual-design__s6.md"></section>
 </section>

@@ -7,5 +7,5 @@ Programma
 
 ### Keuzetrajecten
 
- - Audiovideo Creation (AVC)
+ - Audiovisual Design (AVD)
  - New Media Development (NMD)
