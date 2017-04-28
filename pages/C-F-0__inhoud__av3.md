@@ -6,6 +6,6 @@ Inhoud
 - **Klank**  
 <small>Klank opname, montage en mixage voor beeld (software: Adobe Audition).</small>
 - **Montage**  
-<small>Het samenbrengen van alle audiovisuele elementen in een timeline en dit monteren tot een afgewerkt geheel (software: Adobe Première).</small>
+<small>Het samenbrengen van alle audiovisuele elementen in een timeline en dit monteren tot een afgewerkt geheel (software: Adobe Premiere).</small>
 - **Motion graphic design**  
 <small>2D & 3D motion graphic design (software: Adobe After Effects en Cinema 4D).</small>
